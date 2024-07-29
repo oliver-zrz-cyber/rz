@@ -23,7 +23,7 @@ build:
   writeStats: true
 enableGitInfo: false
 summaryLength: 30
-paginate: 20
+paginate: 40
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -36,7 +36,7 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 1000
+  quality: 100
   anchor: smart
 timeout: 600000
 taxonomies:
