@@ -25,6 +25,16 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
+
+  # - block: skills
+  #   content:
+  #     title: Skills & Hobbies
+  #     username: admin
+  - block: Publication
+    content:
+      title: Publications
+      username: admin
+
   - block: experience
     content:
       username: admin
@@ -33,16 +43,8 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: skills
-    content:
-      title: Skills & Hobbies
-      username: admin
-  - block: awards
-    content:
-      title: Awards
-      username: admin
-  - block: languages
-    content:
-      title: Languages
-      username: admin
+  # - block: languages
+  #   content:
+  #     title: Languages
+  #     username: admin
 ---
