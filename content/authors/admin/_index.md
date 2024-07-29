@@ -11,7 +11,7 @@ last_name: Zhang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -34,4 +34,4 @@ profiles:
 
 
 ---
-Runze Zhang (张润泽) is a third-year Master's student at the Visual Computing Center (VCC) of Shenzhen University. His research interests include geometric optimization and physics simulation.
+Runze Zhang (张润泽) is a third-year Master's student at the Visual Computing Center (VCC) of Shenzhen University.
