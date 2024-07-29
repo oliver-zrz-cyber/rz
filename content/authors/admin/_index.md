@@ -31,7 +31,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/oliver-zrz-cyber
 
-Publications:
+
 
 ---
 Runze Zhang (张润泽) is a third-year Master's student at the Visual Computing Center (VCC) of Shenzhen University. His research interests include geometric optimization and physics simulation.
