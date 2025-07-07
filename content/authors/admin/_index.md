@@ -19,8 +19,8 @@ superuser: true
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: VCC
-    url: https://vcc.tech/
+  - name: NKU
+    url: https://cc.nankai.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -34,4 +34,4 @@ profiles:
 
 
 ---
-Runze Zhang (张润泽) is a third-year Master's student at the Visual Computing Center (VCC) of Shenzhen University.
+Runze Zhang (张润泽) is a fisrt-year Phd's student at College of Computer Science, Nankai University (Tianjin, China).
