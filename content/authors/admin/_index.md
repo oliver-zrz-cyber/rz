@@ -34,4 +34,4 @@ profiles:
 
 
 ---
-Runze Zhang (张润泽) is a fisrt-year Phd's student at College of Computer Science, Nankai University (Tianjin, China).
+Runze Zhang (张润泽) is a first-year Ph.D. student at Nankai University, advised by Prof. Bo Ren. His research interests focus on building interactive and realistic virtual worlds.
