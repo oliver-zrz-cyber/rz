@@ -1,0 +1,43 @@
+{{ $page := site.GetPage (.Get "path") }}
+
+<div style="display:flex; gap:32px; margin-bottom:60px; align-items:flex-start;">
+
+  <div style="flex:1;">
+    {{ with $page.Resources.GetMatch "featured.*" }}
+      <img src="{{ .RelPermalink }}" style="width:100%; border-radius:6px;">
+    {{ end }}
+  </div>
+
+  <div style="flex:1.2;">
+
+    <div style="font-size:1.25rem; font-weight:600;">
+      {{ $page.Title | safeHTML }}
+    </div>
+
+    <div style="margin-top:8px;">
+      {{ $page.Params.authors | safeHTML }}
+    </div>
+
+    <div style="margin-top:6px; font-style:italic; color:#666;">
+      {{ $page.Params.venue }}
+    </div>
+
+    <div style="margin-top:12px;">
+
+      {{ with $page.Params.paper }}
+        <a href="{{ . }}" target="_blank">Paper</a>
+      {{ end }}
+
+      {{ with $page.Params.project }}
+        &nbsp;|&nbsp;<a href="{{ . }}" target="_blank">Project</a>
+      {{ end }}
+
+      {{ with $page.Params.code }}
+        &nbsp;|&nbsp;<a href="{{ . }}" target="_blank">Code</a>
+      {{ end }}
+
+    </div>
+
+  </div>
+
+</div>

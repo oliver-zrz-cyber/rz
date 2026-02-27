@@ -43,16 +43,11 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: collection
-    css_class: section-publications
+  - block: markdown
     content:
       title: Publications
-      filters:
-        folders:
-          - publication
-    design:
-      view: 2
-      columns: 2
+      text: |
+        {{< pub path="publications/CoLOD" >}}
 
   # - block: languages
   #   content:
