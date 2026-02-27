@@ -1,15 +1,15 @@
 ---
-title: "xxx"
+title: "Architectural Co-LOD Generation"
 
-authors: "**Runze Zhang**, xxx"
+authors: "Runze Zhang, Shanshan Pan, Chenlei Lv, Minglun Gong, Hui Huang*"
 
-venue: "ACM SIGGRAPH Asia 2026"
+venue: "ACM TOG & SIGGRAPH Asia 2024"
 
-paper: "https://arxiv.org/abs/xxxx"
-project: "https://yourprojectpage.com"
-code: "https://github.com/yourrepo"
+paper: "https://arxiv.org/abs/2409.12207"
+project: "https://vcc.tech/research/2024/CoLOD"
+code: "https://oliver-zrz-cyber.github.io/Co-LOD/"
 
-date: 2026-01-01
+date: 2024-08-15
 
 _build:
   render: false
