@@ -26,15 +26,6 @@ sections:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
 
-  # - block: skills
-  #   content:
-  #     title: Skills & Hobbies
-  #     username: admin
-  # - block: Publication
-  #   content:
-  #     title: Publications
-  #     username: admin
-
   - block: experience
     content:
       username: admin
