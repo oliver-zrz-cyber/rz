@@ -7,7 +7,7 @@ authors:
 
 publication: "xxx"
 
-featured: true
+featured: false
 
 image:
   preview_only: false
