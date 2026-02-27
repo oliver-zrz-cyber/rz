@@ -52,6 +52,7 @@ sections:
     design:
       view: 2
       columns: 2
+
   # - block: languages
   #   content:
   #     title: Languages

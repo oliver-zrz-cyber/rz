@@ -2,7 +2,7 @@
 title: "xxxx"
 
 authors:
-  - "<strong>Runze Zhang</strong>"
+  - Runze Zhang
   - xxx
 
 publication: "xxx"
