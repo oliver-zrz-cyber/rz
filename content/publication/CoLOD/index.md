@@ -10,7 +10,7 @@ publication: "xxx"
 featured: false
 
 image:
-  preview_only: false
+  preview_only: true
 
 links:
   - name: PDF
