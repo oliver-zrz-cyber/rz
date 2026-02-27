@@ -5,9 +5,9 @@ title: 张润泽
 # Name pronunciation (optional)
 name_pronunciation: Run Ze Zhang
 
-# Full name (for SEO)
-first_name: Run ze
-last_name: Zhang
+# # Full name (for SEO)
+# first_name: Run ze
+# last_name: Zhang
 
 # Status emoji
 status:
