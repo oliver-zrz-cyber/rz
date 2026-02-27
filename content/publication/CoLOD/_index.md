@@ -5,7 +5,7 @@ authors:
   - "<strong>Runze Zhang</strong>"
   - xxx
 
-publication: "ACM SIGGRAPH Asia 2026"
+publication: "xxx"
 
 featured: true
 
