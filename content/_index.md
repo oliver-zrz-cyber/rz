@@ -30,10 +30,10 @@ sections:
   #   content:
   #     title: Skills & Hobbies
   #     username: admin
-  - block: Publication
-    content:
-      title: Publications
-      username: admin
+  # - block: Publication
+  #   content:
+  #     title: Publications
+  #     username: admin
 
   - block: experience
     content:
