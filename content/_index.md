@@ -44,6 +44,7 @@ sections:
       # Education or Experience section first?
       is_education_first: false
   - block: collection
+    css_class: section-publications
     content:
       title: Publications
       filters:
