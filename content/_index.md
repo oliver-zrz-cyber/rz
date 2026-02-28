@@ -38,6 +38,7 @@ sections:
     content:
       title: Publications
       text: |
+        {{< pub path="publications/ArcPro" >}}
         {{< pub path="publications/CoLOD" >}}
 
   # - block: languages
