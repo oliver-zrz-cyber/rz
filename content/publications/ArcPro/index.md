@@ -1,7 +1,7 @@
 ---
 title: "ArcPro: Architectural Programs for Structured 3D Abstraction of Sparse Points"
 
-authors: "Qirui Huang, Runze Zhang, Kangjun Liu, Minglun Gong, Hao Zhang, Hui Huang*"
+authors: "Qirui Huang, <u>Runze Zhang</u>, Kangjun Liu, Minglun Gong, Hao Zhang, Hui Huang*"
 
 venue: "CVPR 2025 Highlight"
 

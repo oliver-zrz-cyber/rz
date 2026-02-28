@@ -40,6 +40,7 @@ sections:
       text: |
         {{< pub path="publications/ArcPro" >}}
         {{< pub path="publications/CoLOD" >}}
+        {{< pub path="publications/LODTree" >}}
 
   # - block: languages
   #   content:

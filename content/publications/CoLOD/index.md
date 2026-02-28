@@ -1,7 +1,7 @@
 ---
 title: "Architectural Co-LOD Generation"
 
-authors: "Runze Zhang, Shanshan Pan, Chenlei Lv, Minglun Gong, Hui Huang*"
+authors: "<u>Runze Zhang</u>, Shanshan Pan, Chenlei Lv, Minglun Gong, Hui Huang*"
 
 venue: "ACM TOG & SIGGRAPH Asia 2024"
 
