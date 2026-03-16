@@ -37,7 +37,8 @@ profiles:
 
 
 ---
-Runze Zhang (张润泽) is a first-year Ph.D. student at Nankai University, advised by Prof. Bo Ren. His research interests focus on building interactive and realistic virtual worlds.
+Hi! I'm a first-year Ph.D. student at Nankai University, advised by [Prof. Bo Ren](http://ren-bo.net/).  
+I obtained my Master’s degree in Computer Science from the VCC at Shenzhen University, advised by [Prof. Hui Huang](https://vcc.tech/~huihuang).  
 
 
 
