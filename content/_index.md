@@ -39,6 +39,7 @@ sections:
     content:
       title: Publications
       text: |
+        {{< pub path="publications/FastVEM" >}}
         {{< pub path="publications/ArcPro" >}}
         {{< pub path="publications/CoLOD" >}}
         {{< pub path="publications/LODTree" >}}
