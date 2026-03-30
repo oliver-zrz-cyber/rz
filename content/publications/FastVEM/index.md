@@ -3,7 +3,7 @@ title: "FastVEM Fluid Simulation"
 
 authors: "<u>Runze Zhang</u>, Bo Ren*"
 
-venue: "Conditionally Accepted bySIGGRAPH 2026."
+venue: "Conditionally Accepted by SIGGRAPH 2026."
 
 # paper: ""
 # project: "https://vcc.tech/research/2024/CoLOD"
