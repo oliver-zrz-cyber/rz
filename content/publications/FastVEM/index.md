@@ -3,11 +3,11 @@ title: "FastVEM Fluid Simulation"
 
 authors: "<u>Runze Zhang</u>, Bo Ren*"
 
-venue: "Conditionally Accepted by SIGGRAPH 2026."
+venue: "ACM TOG & SIGGRAPH 2026."
 
-# paper: ""
-# project: "https://vcc.tech/research/2024/CoLOD"
-# data: "https://oliver-zrz-cyber.github.io/Co-LOD/"
+paper: "FastVEM.pdf"
+video: "FastVEM.mp4"
+project: "https://oliver-zrz-cyber.github.io/FastVEM/"
 
 date: 2026-03-30
 

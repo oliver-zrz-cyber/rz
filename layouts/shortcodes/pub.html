@@ -25,11 +25,23 @@
     <div style="margin-top:12px;">
 
       {{ with $page.Params.paper }}
-        <a href="{{ . }}" target="_blank">Paper</a>
+        {{ $paper := . }}
+        {{ with $page.Resources.GetMatch $paper }}
+          {{ $paper = .RelPermalink }}
+        {{ end }}
+        <a href="{{ $paper }}" target="_blank">Paper</a>
       {{ end }}
 
       {{ with $page.Params.project }}
         &nbsp;|&nbsp;<a href="{{ . }}" target="_blank">Project</a>
+      {{ end }}
+
+      {{ with $page.Params.video }}
+        {{ $video := . }}
+        {{ with $page.Resources.GetMatch $video }}
+          {{ $video = .RelPermalink }}
+        {{ end }}
+        &nbsp;|&nbsp;<a href="{{ $video }}" target="_blank">Video</a>
       {{ end }}
 
       {{ with $page.Params.code }}
