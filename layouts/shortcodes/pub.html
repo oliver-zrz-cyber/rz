@@ -33,7 +33,7 @@
       {{ end }}
 
       {{ with $page.Params.project }}
-        &nbsp;|&nbsp;<a href="{{ . }}" target="_blank">Project</a>
+        &nbsp;|&nbsp;<a href="{{ . }}" target="_blank">{{ default "Project" $page.Params.project_label }}</a>
       {{ end }}
 
       {{ with $page.Params.video }}
