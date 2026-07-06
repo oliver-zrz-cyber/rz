@@ -46,7 +46,7 @@ sections:
 
   - block: markdown
     content:
-      title: Presentations
+      title: Others
       text: |
         {{< ppt title="CSIG学生论坛PPT" file="uploads/CSIG学生论坛PPT.pptx" cover="uploads/csig-student-forum-ppt-cover.jpg" >}}
 
