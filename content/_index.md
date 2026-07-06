@@ -44,6 +44,12 @@ sections:
         {{< pub path="publications/CoLOD" >}}
         {{< pub path="publications/LODTree" >}}
 
+  - block: markdown
+    content:
+      title: Presentations
+      text: |
+        {{< ppt title="CSIG学生论坛PPT" file="uploads/CSIG学生论坛PPT.pptx" cover="uploads/csig-student-forum-ppt-cover.jpg" >}}
+
   # - block: languages
   #   content:
   #     title: Languages

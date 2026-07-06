@@ -1,0 +1,19 @@
+{{ $title := .Get "title" }}
+{{ $file := .Get "file" }}
+{{ $cover := .Get "cover" }}
+
+<div style="display:flex; gap:32px; margin-bottom:20px; align-items:flex-start; flex-wrap:wrap;">
+  <div style="flex:1; min-width:260px;">
+    <a href="{{ $file | relURL }}" download>
+      <img src="{{ $cover | relURL }}" alt="{{ $title }} cover" style="width:100%; border-radius:6px;">
+    </a>
+  </div>
+  <div style="flex:1.2; min-width:260px;">
+    <div style="font-size:1.25rem; font-weight:600;">
+      <a href="{{ $file | relURL }}" download>{{ $title }}</a>
+    </div>
+    <div style="margin-top:12px;">
+      <a href="{{ $file | relURL }}" download>Download PPT</a>
+    </div>
+  </div>
+</div>
