@@ -22,6 +22,12 @@
       {{ $page.Params.venue }}
     </div>
 
+    {{ with $page.Params.highlight }}
+      <div style="margin-top:6px; color:#dc2626; font-weight:600;">
+        {{ . }}
+      </div>
+    {{ end }}
+
     <div style="margin-top:12px;">
 
       {{ with $page.Params.paper }}
