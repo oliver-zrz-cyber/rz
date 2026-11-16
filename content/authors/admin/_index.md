@@ -39,4 +39,4 @@ profiles:
 ---
 Hi! I'm a second-year Ph.D. student at Nankai University, advised by [Prof. Bo Ren](http://ren-bo.net/). I obtained my Master’s degree in Computer Science from the VCC at Shenzhen University, advised by [Prof. Hui Huang](https://vcc.tech/~huihuang).
 
-The interplay between geometry, topology and PDE in computer graphics (especially fluids) is intricate and beautiful. I will spend years immersed in it, hoping to discover some of its undiscovered beauty.
+The interplay between computational geometry, computational topology and numerical solutions of PDEs in computer graphics is intricate and beautiful. I will spend years immersed in it, hoping to discover some of its undiscovered beauty.
